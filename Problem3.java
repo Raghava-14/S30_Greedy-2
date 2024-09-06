@@ -1,4 +1,4 @@
-//Time = O(n), length og input
+//Time = O(n), length of input
 //Space = O(1)
 
 class Solution {
